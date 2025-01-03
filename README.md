@@ -5,14 +5,10 @@ I am a computer science student at Brawijaya University. I have a keen interest 
     
 ## 🧰 &nbsp;My toolbox
 
-<img  src="https://raw.githubusercontent.com/federicodosantos/federicodosantos/main/assets/go.svg" alt="Golang" width="50" height="50"/> &nbsp;
-<img  src="https://raw.githubusercontent.com/federicodosantos/federicodosantos/main/assets/gin.svg" alt="Go-Gin" width="50" height="50"/> &nbsp;
-<img  src="https://raw.githubusercontent.com/federicodosantos/federicodosantos/main/assets/mariadb.svg" alt="MariaDB" width="50" height="50"/> &nbsp; 
-<img  src="https://raw.githubusercontent.com/federicodosantos/federicodosantos/main/assets/mysql.svg" alt="Mysql" width="50" height="50"/> &nbsp;
-<img  src="https://raw.githubusercontent.com/federicodosantos/federicodosantos/main/assets/postgresql.svg" alt="Postgres" width="50" height="50"/> &nbsp;
-<img  src="https://raw.githubusercontent.com/federicodosantos/federicodosantos/main/assets/vscode3.svg" alt="vscode" width="50" height="50"/> &nbsp;
-<img src="https://raw.githubusercontent.com/federicodosantos/federicodosantos/main/assets/docker.svg" alt="Docker" width="50" height="50"/> &nbsp;
-<img src="https://raw.githubusercontent.com/federicodosantos/federicodosantos/main/assets/supabase-logo-icon.svg" alt="Supbase" width="50" height="50"/> &nbsp;
+![Go Badge](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=fff&style=flat-square)
+![PHP Badge](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff&style=flat-square) ![OpenJDK Badge](https://img.shields.io/badge/OpenJDK-000?logo=openjdk&logoColor=fff&style=flat-square) ![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=flat-square) ![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=flat-square) ![Gin Badge](https://img.shields.io/badge/Gin-008ECF?logo=gin&logoColor=fff&style=flat-square) ![Static Badge](https://img.shields.io/badge/Golang%20Chi-0dbd2b?style=flat-square)
+ ![Laravel Badge](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=fff&style=flat-square) ![Spring Boot Badge](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff&style=flat-square) ![Supabase Badge](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=fff&style=flat-square) 
+![Docker Badge](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=flat-square) ![Manjaro Badge](https://img.shields.io/badge/Manjaro-35BF5C?logo=manjaro&logoColor=fff&style=flat-square)
 
 ## 📊 &nbsp;Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=federicodosantos&theme=dark)](https://git.io/streak-stats)
