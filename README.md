@@ -1,6 +1,6 @@
 # 👋 &nbsp;Hi there, I'm Federico!
 
-I am a computer science student at Brawijaya University. I have a keen interest in back-end development and Golang. Currently, I'm exploring various back-end technologies and working on several projects to deepen my understanding.
+I am a computer science student at Brawijaya University. I have an interest in backend development and also started exploring infrastructure.
  
     
 ## 🧰 &nbsp;My toolbox
